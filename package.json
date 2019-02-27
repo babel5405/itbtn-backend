@@ -1,0 +1,14 @@
+{
+  "name": "itbtnServer",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "https://github.com/babel5405/itbtn-backend.git",
+  "author": "bricynabel@abelnet.net",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "helmet": "^3.15.0",
+    "mysql": "^2.16.0",
+    "socket.io": "^2.2.0"
+  }
+}
